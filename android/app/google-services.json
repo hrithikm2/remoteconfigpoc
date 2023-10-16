@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201550128415",
+    "project_id": "remoteconfigpocritic",
+    "storage_bucket": "remoteconfigpocritic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201550128415:android:e4730382b61f9421fcbc2a",
+        "android_client_info": {
+          "package_name": "com.example.remote_config_poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgXy6NeYzhmYt2Rwb1AMht6b7jM_QOS8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201550128415:android:a4c60b13c3902136fcbc2a",
+        "android_client_info": {
+          "package_name": "com.ritic.rconfig.rconfig"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgXy6NeYzhmYt2Rwb1AMht6b7jM_QOS8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
